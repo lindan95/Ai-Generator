@@ -1,0 +1,6 @@
+{
+  "name": "GuruPintar AI",
+  "description": "Generator Perangkat Pembelajaran Kurikulum Merdeka berbasis AI untuk Guru",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
